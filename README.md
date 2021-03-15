@@ -1,1 +1,1 @@
-# git_tut
+# git_tutorial
